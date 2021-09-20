@@ -225,7 +225,7 @@ void shapeB(float x, float y, float s) {
   pop();
 }
 
-//Function to craete a grain pattern simulating texture
+//Function to create a grain pattern simulating texture
 void createGrain() {
   grain = createGraphics(width, height);
   grain.beginDraw();
