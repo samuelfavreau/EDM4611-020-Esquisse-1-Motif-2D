@@ -27,6 +27,5 @@ Il est possible de sauvegarder une image au format PNG du motif généré en app
 --
 
 **Inspiration:**
-![242046113_376501717346960_5755993555838854100_n](https://user-images.githubusercontent.com/48024730/134185848-f292dd36-3310-404e-94ef-0c96ec5e9934.jpg)
-
+![242046113_376501717346960_5755993555838854100_n](https://user-images.githubusercontent.com/48024730/134186648-d7f33bf5-ae48-4a16-a48a-a72fdb21038e.jpg)
 
