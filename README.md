@@ -23,3 +23,10 @@ Tous les éléments de formes et de textures peuvent obtenir de nouvelles valeur
 --
 
 Il est possible de sauvegarder une image au format PNG du motif généré en appuyant sur la barre d'espacement du clavier. Les images seront enregistrées dans un dossier nommé "frame" suivi de la date et de l'heure de l'ouverture du programme, permettant ainsi la possibilité de sauvegarder plusieurs images à différents moments sans écrasé les images antérieures.
+
+--
+
+**Inspiration:**
+![242046113_376501717346960_5755993555838854100_n](https://user-images.githubusercontent.com/48024730/134185848-f292dd36-3310-404e-94ef-0c96ec5e9934.jpg)
+
+
